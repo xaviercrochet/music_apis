@@ -1,11 +1,13 @@
-module MusicAPIs
+require_relative 'spotify/track'
+
+module MusicApis
   class Track
     class << self
       attr_accessor :track_apis
 
       def search(track_struct)
         map do |api|
-          api.seach(track_struct)
+          api.search(track_struct)
         end
       end
 
@@ -22,10 +24,10 @@ module MusicAPIs
       end
 
       def register(klass)
+        self.track_apis || []
         self.track_apis << klass
       end
     end
-
-    register SpotifyApi::Track
+    register MusicApis::Spotify::Track 
   end
 end

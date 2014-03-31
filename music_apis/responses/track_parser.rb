@@ -1,6 +1,6 @@
 module MusicApis
-  module Respones
-    class Track
+  module Responses
+    class TrackParser
       attr_accessor :tracks
     end
   end
