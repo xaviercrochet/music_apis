@@ -7,7 +7,7 @@ module MusicApis
       def self.search(track_info)
       	# todo Replace by a query to spotify api
       	#response = MusicApis::Spotify::Reponses.new
-      	request = 'http://ws.spotify.com/search/1/track.json?q=track:' + track_info[:title].to_s + '&q=artist:' + track_info[:artist] 
+      	request = 'http://ws.spotify.com/search/1/track.json?q=track:' + track_info[:title].to_s  
         response = open(URI.escape(request)).read
 
         return MusicApis::Spotify::Responses::TrackParser.new response

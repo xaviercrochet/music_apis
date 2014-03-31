@@ -1,4 +1,4 @@
-require_relative 'spotify/track'
+require 'music/spotify/track'
 
 module MusicApis
   class Track
