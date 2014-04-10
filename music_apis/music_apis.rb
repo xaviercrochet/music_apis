@@ -25,5 +25,6 @@ module MusicApis
       end
     end
     register MusicApis::Spotify::Track 
+    register MusicApis::MusicBrainz::Track
   end
 end

@@ -1,1 +1,1667 @@
-{"created":"2014-04-10T03:54:55.886Z","count":106,"offset":0,"recording":[{"id":"0ec12e20-a380-437c-94ef-f321c8e557f2","score":"100","title":"Sinking Ship","length":274000,"video":null,"artist-credit":[{"artist":{"id":"a506f761-2c22-4b2f-8a94-bd748c2c8f75","name":"Neutral Milk Hotel","sort-name":"Neutral Milk Hotel","aliases":[{"sort-name":"Jeff Mangum","name":"Jeff Mangum","locale":"en_US","type":null,"primary":null,"begin-date":null,"end-date":null},{"sort-name":"Neutral Milk","name":"Neutral Milk","locale":null,"type":null,"primary":null,"begin-date":null,"end-date":null}]}}],"releases":[{"id":"aa63a5bd-d36a-43a3-a622-c813e72da497","title":"Invent Yourself a Shortcake","status":"Official","release-group":{"id":"52c9bd17-082b-3b56-b43c-caa6ac576c3a","primary-type":"Album"},"date":"1991","country":"US","release-events":[{"date":"1991","area":{"id":"489ce91b-6658-3307-9877-795b68554c98","name":"United States","sort-name":"United States","iso-3166-1-codes":["US"]}}],"track-count":16,"media":[{"position":1,"format":"Cassette","track":[{"id":"416accd9-518c-3d7b-b036-cf9393d36f1b","number":"6","title":"Sinking Ship","length":274000}],"track-count":16,"track-offset":5}]}]},{"id":"207b27eb-0e0a-4a47-83d0-82b1ab60dfda","score":"100","title":"Sinking Ship","length":101693,"video":null,"artist-credit":[{"artist":{"id":"41521210-ef91-49cc-9b0b-55ca8f9f053c","name":"Jimi Tenor","sort-name":"Tenor, Jimi"}}],"releases":[{"id":"25c9ba91-2bf7-49d2-87d7-f6d4e0ac2305","title":"Utopian Dream","status":"Official","release-group":{"id":"72ac12b4-45d8-346e-a6b3-33d4ec746ada","primary-type":"Album"},"date":"2001-10","country":"FI","release-events":[{"date":"2001-10","area":{"id":"6a264f94-6ff1-30b1-9a81-41f7bfabd616","name":"Finland","sort-name":"Finland","iso-3166-1-codes":["FI"]}}],"track-count":15,"media":[{"position":1,"format":"CD","track":[{"id":"b3004705-fd0e-34d4-9cb1-3b82636d8b11","number":"11","title":"Sinking Ship","length":101693}],"track-count":15,"track-offset":10}]}]},{"id":"952a4cc0-1f15-40c3-bb88-819d08d8a93b","score":"100","title":"Sinking Ship","length":198000,"video":null,"artist-credit":[{"artist":{"id":"b3d5b1c9-95df-42ea-83eb-c86b18f61f8d","name":"The New Year","sort-name":"New Year, The"}}],"releases":[{"id":"fe14b417-ff6e-4176-bd34-b0791cb74a6e","title":"The End Is Near","status":"Official","release-group":{"id":"03b7e181-c0d4-37a4-afb5-449276f9b385","primary-type":"Album"},"date":"2004-05-18","country":"US","release-events":[{"date":"2004-05-18","area":{"id":"489ce91b-6658-3307-9877-795b68554c98","name":"United States","sort-name":"United States","iso-3166-1-codes":["US"]}}],"track-count":9,"media":[{"position":1,"format":"CD","track":[{"id":"0ba79104-e600-35f8-903c-6bd7e2fb8ece","number":"2","title":"Sinking Ship","length":198000}],"track-count":9,"track-offset":1}]}],"isrcs":[{"id":"USTG30425602"}]},{"id":"7a139cbb-3aad-42c0-b91d-ee6ef48cfcce","score":"100","title":"Sinking Ship","video":null,"artist-credit":[{"artist":{"id":"e1f481f4-9159-41c3-b4c6-f86b95f04db9","name":"Bum Ruckus","sort-name":"Bum Ruckus"}}],"releases":[{"id":"9a05427c-e4d5-4f74-bd96-a7754d7fd7f0","title":"Almost Professional","status":"Official","release-group":{"id":"3550c301-6e4f-3ade-9301-ab8a7c8e3de7","primary-type":"Album"},"track-count":15,"media":[{"position":1,"track":[{"id":"65fe8eb7-e493-3dc0-9658-9bc367e720d8","number":"5","title":"Sinking Ship","length":0}],"track-count":15,"track-offset":4}]}]},{"id":"1e0dea6f-7760-42f1-8938-b3157b10ee2e","score":"100","title":"Sinking Ship","length":191000,"video":null,"artist-credit":[{"artist":{"id":"a2dc0b52-1057-447f-89db-818acab15299","name":"Gabriel Yared","sort-name":"Yared, Gabriel","disambiguation":"soundtrack composer","aliases":[{"sort-name":"Garbriel Yared","name":"Garbriel Yared","locale":null,"type":null,"primary":null,"begin-date":null,"end-date":null},{"sort-name":"Yared","name":"Yared","locale":null,"type":null,"primary":null,"begin-date":null,"end-date":null},{"sort-name":"Yared, Gabriel","name":"Yared, Gabriel","locale":null,"type":null,"primary":null,"begin-date":null,"end-date":null}]}}],"releases":[{"id":"30769353-fbdd-4245-8419-c8b378f12ab3","title":"1408","status":"Official","release-group":{"id":"38eacb8f-cbea-3fa8-bada-f97767e1f0e9","primary-type":"Album","secondary-types":["Soundtrack"]},"date":"2007-07-03","country":"US","release-events":[{"date":"2007-07-03","area":{"id":"489ce91b-6658-3307-9877-795b68554c98","name":"United States","sort-name":"United States","iso-3166-1-codes":["US"]}}],"track-count":16,"media":[{"position":1,"format":"CD","track":[{"id":"3f6fed2c-154d-3799-be32-01e61806b7dd","number":"12","title":"Sinking Ship","length":191000}],"track-count":16,"track-offset":11}]},{"id":"df24d615-4b2b-35b6-8887-a950435601d2","title":"1408","status":"Official","release-group":{"id":"38eacb8f-cbea-3fa8-bada-f97767e1f0e9","primary-type":"Album","secondary-types":["Soundtrack"]},"date":"2007-07-02","country":"DE","release-events":[{"date":"2007-07-02","area":{"id":"85752fda-13c4-31a3-bee5-0e5cb1f51dad","name":"Germany","sort-name":"Germany","iso-3166-1-codes":["DE"]}}],"track-count":16,"media":[{"position":1,"format":"CD","track":[{"id":"075941af-e9d9-3753-8753-e675707589ca","number":"12","title":"Sinking Ship","length":191000}],"track-count":16,"track-offset":11}]},{"id":"e136af0f-9403-375e-a868-44767656d2ea","title":"1408","status":"Official","release-group":{"id":"38eacb8f-cbea-3fa8-bada-f97767e1f0e9","primary-type":"Album","secondary-types":["Soundtrack"]},"date":"2007-08-03","country":"TW","release-events":[{"date":"2007-08-03","area":{"id":"41637cec-9a4f-389c-86d2-fc6abf3357b5","name":"Taiwan","sort-name":"Taiwan","iso-3166-1-codes":["TW"]}}],"track-count":16,"media":[{"position":1,"format":"CD","track":[{"id":"8d79bfe0-bf1e-389f-a7da-9f073522028e","number":"12","title":"Sinking Ship","length":191000}],"track-count":16,"track-offset":11}]}]},{"id":"0717b24f-6a26-4975-acc8-c4d9ec5d7c5d","score":"100","title":"Sinking Ship","length":288000,"video":null,"artist-credit":[{"artist":{"id":"a506f761-2c22-4b2f-8a94-bd748c2c8f75","name":"Neutral Milk Hotel","sort-name":"Neutral Milk Hotel","aliases":[{"sort-name":"Jeff Mangum","name":"Jeff Mangum","locale":"en_US","type":null,"primary":null,"begin-date":null,"end-date":null},{"sort-name":"Neutral Milk","name":"Neutral Milk","locale":null,"type":null,"primary":null,"begin-date":null,"end-date":null}]}}],"releases":[{"id":"d00832ef-cd7d-4350-a7dd-56f13f450e73","title":"Complete Demo Recordings","status":"Bootleg","release-group":{"id":"3860fefc-1031-320d-a4c0-7d2e28518190","primary-type":"Album","secondary-types":["Compilation"]},"track-count":42,"media":[{"position":1,"track":[{"id":"e1036420-8630-3cd9-9881-0ac007f5b0a4","number":"6","title":"Sinking Ship","length":288000}],"track-count":20,"track-offset":5}]}]},{"id":"58f87f9e-05f9-4572-813a-4b42f4c19dc3","score":"100","title":"Sinking Ship","length":160000,"video":null,"artist-credit":[{"artist":{"id":"07c84a41-f755-48e2-821d-7b69ba73424e","name":"Peter Mergener","sort-name":"Mergener, Peter"}}],"releases":[{"id":"2a3e956d-ebeb-4383-8fe2-d3faac08b81a","title":"Let There Be More Light (Creatures II)","status":"Official","release-group":{"id":"beafea24-a25a-3297-a52b-dec60fc4b75f","primary-type":"Album"},"date":"1994","country":"DE","release-events":[{"date":"1994","area":{"id":"85752fda-13c4-31a3-bee5-0e5cb1f51dad","name":"Germany","sort-name":"Germany","iso-3166-1-codes":["DE"]}}],"track-count":10,"media":[{"position":1,"format":"CD","track":[{"id":"fda7741a-e6b1-32ec-b66d-e2370498ade2","number":"8","title":"Sinking Ship","length":160000}],"track-count":10,"track-offset":7}]}]},{"id":"7e9f28be-a009-462d-9c14-448f305ed243","score":"100","title":"Sinking Ship","length":49000,"video":null,"artist-credit":[{"artist":{"id":"e3607d9d-16a3-42eb-b88c-c09ac9527192","name":"Paul J. Smith","sort-name":"Smith, Paul J."}}],"releases":[{"id":"90040dd9-af34-4417-a1e4-a737ce20a7a0","title":"20,000 Leagues Under the Sea","status":"Bootleg","release-group":{"id":"e8f83150-4cc8-3156-8fbc-e253c9d8a1a0","primary-type":"Album","secondary-types":["Soundtrack"]},"track-count":21,"media":[{"position":1,"track":[{"id":"6f37ec80-ce46-398a-9ea6-6e98253f2f6d","number":"5","title":"Sinking Ship","length":49000}],"track-count":21,"track-offset":4}]}]},{"id":"c461bb01-f253-418e-81d8-6e45c9e019bc","score":"100","title":"Sinking Ship","length":294000,"video":null,"artist-credit":[{"artist":{"id":"cd87f439-0ec2-410f-a5a3-1c19d33c7438","name":"G'Nee and Her Kings","sort-name":"G'Nee and Her Kings","aliases":[{"sort-name":"G'nee And Her Kings","name":"G'nee And Her Kings","locale":null,"type":null,"primary":null,"begin-date":null,"end-date":null}]}}],"releases":[{"id":"d2f01dd7-0cd6-433b-aa59-d2c0cf65813c","title":"Believe","status":"Official","release-group":{"id":"98e18337-29da-42d5-a413-aa281daeb150","primary-type":"Album"},"date":"2011-09-25","country":"CA","release-events":[{"date":"2011-09-25","area":{"id":"71bbafaa-e825-3e15-8ca9-017dcad1748b","name":"Canada","sort-name":"Canada","iso-3166-1-codes":["CA"]}}],"track-count":7,"media":[{"position":1,"format":"Digital Media","track":[{"id":"aa953eaa-14e9-37ad-80e9-3a316eae3b3b","number":"3","title":"Sinking Ship","length":294000}],"track-count":7,"track-offset":2}]}]},{"id":"1e86cb13-a72c-485c-b1f6-31998d9560f6","score":"100","title":"Sinking Ship","video":null,"artist-credit":[{"artist":{"id":"c3bef39b-341e-4501-9286-964acf646fb8","name":"Black Friday '29","sort-name":"Black Friday '29"}}],"releases":[{"id":"471a978b-c000-4d17-9ee3-ad84c78bb5ed","title":"The Pursuit of Happiness","status":"Official","release-group":{"id":"870ab102-1d55-43f8-815d-1756f83be900","primary-type":"Album"},"date":"2007","release-events":[{"date":"2007"}],"track-count":12,"media":[{"position":1,"track":[{"id":"ef712db3-5418-3ed6-87bd-cf4ee56b7290","number":"5","title":"Sinking Ship","length":0}],"track-count":12,"track-offset":4}]}]},{"id":"09f31976-b7a2-40a6-a367-7c2d99428652","score":"100","title":"Sinking Ship","length":258000,"video":null,"artist-credit":[{"artist":{"id":"b0eb621d-40c6-476f-9054-9778b2150ab6","name":"Jill Andrews","sort-name":"Andrews, Jill"}}],"releases":[{"id":"49453828-b06d-4d06-8455-6172efd5b456","title":"The Mirror","status":"Official","release-group":{"id":"d327c5f7-3f4b-45a2-b11c-4622d8d82735","primary-type":"Album"},"date":"2011-06-07","country":"US","release-events":[{"date":"2011-06-07","area":{"id":"489ce91b-6658-3307-9877-795b68554c98","name":"United States","sort-name":"United States","iso-3166-1-codes":["US"]}}],"track-count":10,"media":[{"position":1,"format":"Digital Media","track":[{"id":"4c286df6-0dd4-36d5-8592-acce85f504a2","number":"3","title":"Sinking Ship","length":258000}],"track-count":10,"track-offset":2}]}]},{"id":"6674cf43-7b73-4440-988f-f7825ddc0216","score":"100","title":"Sinking Ship","length":256000,"video":null,"artist-credit":[{"artist":{"id":"665e5453-f8c3-4e20-94c9-f1397bcd52f7","name":"Adam WarRock","sort-name":"WarRock, Adam"}}],"releases":[{"id":"48882787-495b-41ea-9999-82c41287a9aa","title":"Irrelevant, Volume 1","status":"Official","release-group":{"id":"0ca47f95-a650-4ce7-89e2-d5ec7460b729","primary-type":"Album","secondary-types":["Compilation"]},"date":"2011-07-22","country":"XW","release-events":[{"date":"2011-07-22","area":{"id":"525d4e18-3d00-31b9-a58b-a146a916de8f","name":"[Worldwide]","sort-name":"[Worldwide]","iso-3166-1-codes":["XW"]}}],"track-count":15,"media":[{"position":1,"format":"Digital Media","track":[{"id":"7f6c810c-9cd6-3ff2-90a3-3e09c2235dfe","number":"7","title":"Sinking Ship","length":256000}],"track-count":15,"track-offset":6}]}]},{"id":"ba24bd5d-8418-41d6-8108-2f7506ead387","score":"100","title":"Sinking Ship","length":339240,"video":null,"artist-credit":[{"artist":{"id":"c3aed36d-a6e7-4b4a-af01-d4ddcf2c044e","name":"Gosling","sort-name":"Gosling"}}],"releases":[{"id":"277ded2f-531c-4f11-8e76-bc79553dfda1","title":"Here Is...","status":"Official","release-group":{"id":"b0a75b97-8b4e-33e7-a8eb-f9021fec8e6b","primary-type":"Album"},"date":"2006","country":"US","release-events":[{"date":"2006","area":{"id":"489ce91b-6658-3307-9877-795b68554c98","name":"United States","sort-name":"United States","iso-3166-1-codes":["US"]}}],"track-count":13,"media":[{"position":1,"track":[{"id":"2f9cc01d-cbd2-3bc3-a68c-e2e35ca28f01","number":"13","title":"Sinking Ship","length":339240}],"track-count":13,"track-offset":12}]}]},{"id":"7a617e21-f27b-4f54-b3df-259b1a298960","score":"100","title":"Sinking Ship","length":198000,"video":null,"artist-credit":[{"joinphrase":" & ","artist":{"id":"5235255a-72f7-4d48-9deb-69cb2c5e3013","name":"Cedric Myton","sort-name":"Myton, Cedric","aliases":[{"sort-name":"Cedric \"Congo\" Myton","name":"Cedric \"Congo\" Myton","locale":null,"type":null,"primary":null,"begin-date":null,"end-date":null},{"sort-name":"Cedric \"Congos\" Mytton","name":"Cedric \"Congos\" Mytton","locale":null,"type":null,"primary":null,"begin-date":null,"end-date":null}]}},{"artist":{"id":"6a810a7e-0163-41c5-b198-2edcbb4a33bb","name":"The Congos","sort-name":"Congos, The","aliases":[{"sort-name":"Congoes, The","name":"Congoes, The","locale":null,"type":null,"primary":null,"begin-date":null,"end-date":null},{"sort-name":"Congos, The","name":"Congos, The","locale":null,"type":null,"primary":null,"begin-date":null,"end-date":null},{"sort-name":"The Congoes","name":"The Congoes","locale":null,"type":null,"primary":null,"begin-date":null,"end-date":null}]}}],"releases":[{"id":"a6722053-979c-43ab-97b8-f6aea5baea08","title":"Face the Music","status":"Official","release-group":{"id":"10a098fd-6477-362c-9ee6-e4b9899b5f7b","primary-type":"Album"},"date":"1981","country":"JM","release-events":[{"date":"1981","area":{"id":"2dd47a64-91d5-3b13-bc94-80043ed063d7","name":"Jamaica","sort-name":"Jamaica","iso-3166-1-codes":["JM"]}}],"track-count":10,"media":[{"position":1,"track":[{"id":"712f3206-37da-386e-bc36-ac15625899f4","number":"4","title":"Sinking Ship","length":198000}],"track-count":10,"track-offset":3}]}]},{"id":"109ae269-68ea-4869-aa9b-b3b153c56bfa","score":"100","title":"Sinking Ship","length":132000,"video":null,"artist-credit":[{"artist":{"id":"ae28486c-6ef4-433a-9d06-3fb845fd68b3","name":"Viceroy","sort-name":"Viceroy"}}],"releases":[{"id":"2217846b-28ef-4751-afd9-50d7818c9596","title":"Hometown Pride","status":"Official","artist-credit":[{"artist":{"id":"89ad4ac3-39f7-470e-963a-56509c546377","name":"Various Artists","sort-name":"Various Artists"}}],"release-group":{"id":"392918cb-1969-3197-b94c-fbcb8ec31736","primary-type":"Album"},"date":"2006-07","country":"FI","release-events":[{"date":"2006-07","area":{"id":"6a264f94-6ff1-30b1-9a81-41f7bfabd616","name":"Finland","sort-name":"Finland","iso-3166-1-codes":["FI"]}}],"track-count":16,"media":[{"position":1,"track":[{"id":"bf16773e-5236-3afb-bb70-4c47c94ae160","number":"8","title":"Sinking Ship","length":132000}],"track-count":16,"track-offset":7}]}]},{"id":"fe71ace6-6ef0-4d22-9c23-16729054f5cf","score":"100","title":"Sinking Ship","length":292706,"video":null,"artist-credit":[{"artist":{"id":"5d38d0f3-de09-4c1a-b126-7336952358ab","name":"Bobby Conn","sort-name":"Conn, Bobby"}}],"releases":[{"id":"5ff458a1-aba6-47d7-83ae-eb3fe8aeb59f","title":"King for a Day","status":"Official","release-group":{"id":"a0bb02b3-b9d6-318a-b3fd-9524d790885f","primary-type":"Album"},"date":"2007","country":"US","release-events":[{"date":"2007","area":{"id":"489ce91b-6658-3307-9877-795b68554c98","name":"United States","sort-name":"United States","iso-3166-1-codes":["US"]}}],"track-count":12,"media":[{"position":1,"format":"CD","track":[{"id":"39f258dc-2176-3683-a898-414ef7696f86","number":"6","title":"Sinking Ship","length":292706}],"track-count":12,"track-offset":5}]}]},{"id":"4c4a1de6-4d48-4945-b83d-60188ac86666","score":"100","title":"Sinking Ship","length":272000,"video":null,"artist-credit":[{"artist":{"id":"7bba2a32-ed44-4565-b6ec-735858c6f258","name":"The Moonwalkers","sort-name":"Moonwalkers, The","disambiguation":"Spanish alternative band"}}],"releases":[{"id":"08b4367f-80a9-4395-84f6-ba56108bd991","title":"Tremendous Amount Of Cherries","status":"Official","release-group":{"id":"83afe918-f78d-478c-958a-1bf8889c95df","primary-type":"Album"},"date":"2012-11-07","release-events":[{"date":"2012-11-07"}],"track-count":12,"media":[{"position":1,"format":"Digital Media","track":[{"id":"6826244d-53e8-35a2-ab5b-f0937ce87582","number":"5","title":"Sinking Ship","length":272000}],"track-count":12,"track-offset":4}]}]},{"id":"2b680a97-a51f-4ba7-96c4-4dc4ab5098b7","score":"100","title":"Sinking Ship","length":190000,"video":null,"artist-credit":[{"artist":{"id":"91511517-ef93-4d71-a0f0-c858272af4a7","name":"Balthazar","sort-name":"Balthazar"}}],"releases":[{"id":"78b386cb-cfb7-48cc-ae00-8398369d2985","title":"Rats","status":"Official","release-group":{"id":"1f396537-fe6f-44e1-ba69-51d39c1ff523","primary-type":"Album"},"date":"2012-10-12","release-events":[{"date":"2012-10-12"}],"track-count":10,"media":[{"position":1,"format":"Digital Media","track":[{"id":"f8d84529-9770-3d79-af5c-05a13ba16b30","number":"2","title":"Sinking Ship","length":190000}],"track-count":10,"track-offset":1}]}]},{"id":"de829218-8484-40c0-ad9c-4062135d82b4","score":"100","title":"Sinking Ship","length":191400,"video":null,"artist-credit":[{"artist":{"id":"91511517-ef93-4d71-a0f0-c858272af4a7","name":"Balthazar","sort-name":"Balthazar"}}],"releases":[{"id":"88faefc8-8227-43ef-9379-0c70411693e3","title":"Rats","status":"Official","release-group":{"id":"1f396537-fe6f-44e1-ba69-51d39c1ff523","primary-type":"Album"},"date":"2012","country":"BE","release-events":[{"date":"2012","area":{"id":"5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc","name":"Belgium","sort-name":"Belgium","iso-3166-1-codes":["BE"]}}],"track-count":10,"media":[{"position":1,"format":"CD","track":[{"id":"ba791572-16ac-3eea-946d-ba6c90186112","number":"2","title":"Sinking Ship","length":191400}],"track-count":10,"track-offset":1}]}]},{"id":"0fa14f4c-d357-4d3c-a577-5b9fe2106118","score":"100","title":"Sinking Ship","video":null,"artist-credit":[{"artist":{"id":"96bea40e-bf23-437a-9a3d-8ba1261d9070","name":"Darren Jones","sort-name":"Darren Jones","disambiguation":"hard industrial techno sounds from the deepest depths"}}],"releases":[{"id":"a8a7ad76-d5ff-4182-8bff-2108cc016f9e","title":"Metaphysis","status":"Official","artist-credit":[{"name":"psyCodEd","artist":{"id":"2d1a61e0-a82f-4085-8d56-0f3ff42cf069","name":"Psycoded","sort-name":"Psycoded","disambiguation":"real name Aleks Janeski"}}],"release-group":{"id":"56300f73-b1a1-408f-8c31-021fc763f91c","primary-type":"Album","secondary-types":["DJ-mix"]},"date":"2009-02-05","country":"RU","release-events":[{"date":"2009-02-05","area":{"id":"1f1fc3a4-9500-39b8-9f10-f0a465557eef","name":"Russian Federation","sort-name":"Russian Federation","iso-3166-1-codes":["RU"]}}],"track-count":22,"media":[{"position":1,"format":"Digital Media","track":[{"id":"81d29da0-9c60-37d5-b204-e91e080c9ddc","number":"20","title":"Sinking Ship","length":0}],"track-count":22,"track-offset":19}]}]},{"id":"cdd3cff8-7123-44fa-8d66-60ab4a1d7616","score":"100","title":"Sinking Ship","length":222000,"video":null,"artist-credit":[{"artist":{"id":"65d22d19-4617-47e7-bcfa-bca0bd40dc7a","name":"The Chairs","sort-name":"Chairs, The","disambiguation":"Wisconsin based indie group"}}],"releases":[{"id":"a24de27f-2b64-4480-b2be-b03ede580040","title":"Laugh, It's a Fright","status":"Official","release-group":{"id":"ed660e96-d5b1-44d1-81f9-fdfaa2c62d48","primary-type":"Album"},"date":"2009-03-31","country":"XW","release-events":[{"date":"2009-03-31","area":{"id":"525d4e18-3d00-31b9-a58b-a146a916de8f","name":"[Worldwide]","sort-name":"[Worldwide]","iso-3166-1-codes":["XW"]}}],"track-count":12,"media":[{"position":1,"format":"Digital Media","track":[{"id":"03ba323b-429d-3af2-a53f-24a6a2e2e7af","number":"9","title":"Sinking Ship","length":222000}],"track-count":12,"track-offset":8}]}]},{"id":"2facd4e7-039b-4d4d-b04b-a6b0fe6ac7f6","score":"100","title":"Sinking Ship","length":168440,"video":null,"artist-credit":[{"artist":{"id":"345c4ead-9243-4143-8390-6bb7b6185b90","name":"Lungbutter","sort-name":"Lungbutter"}}],"releases":[{"id":"9a4b1142-d2ab-4e9e-9c1f-2a867a992549","title":"Release","status":"Official","release-group":{"id":"fe9d2e40-a99e-4712-a29d-9db8fc04f3b6","primary-type":"Album"},"country":"DE","release-events":[{"area":{"id":"85752fda-13c4-31a3-bee5-0e5cb1f51dad","name":"Germany","sort-name":"Germany","iso-3166-1-codes":["DE"]}}],"track-count":12,"media":[{"position":1,"format":"CD","track":[{"id":"1c915944-26ed-3b3c-8b7a-b733bd538e0b","number":"8","title":"Sinking Ship","length":168440}],"track-count":12,"track-offset":7}]}]},{"id":"368a793d-a2a6-4a27-b833-845c9a087c05","score":"100","title":"Sinking Ship","video":null,"artist-credit":[{"artist":{"id":"e0852756-9497-4c70-9595-e8f058bf2cf2","name":"Dennis Locorriere","sort-name":"Locorriere, Dennis","aliases":[{"sort-name":"Dennis of Dr. Hook","name":"Dennis of Dr. Hook","locale":null,"type":null,"primary":null,"begin-date":null,"end-date":null}]}}],"releases":[{"id":"ddbe639a-87c5-42c7-9386-4d5925166c13","title":"Post Cool","status":"Official","release-group":{"id":"1b8859a3-d87d-42d8-840f-fee4265df160","primary-type":"Album"},"date":"2010-03-15","country":"GB","release-events":[{"date":"2010-03-15","area":{"id":"8a754a16-0027-3a29-b6d7-2b40ea0481ed","name":"United Kingdom","sort-name":"United Kingdom","iso-3166-1-codes":["GB"]}}],"track-count":13,"media":[{"position":1,"format":"CD","track":[{"id":"ab7a1442-f49c-3e0f-868b-65421925e742","number":"11","title":"Sinking Ship","length":0}],"track-count":13,"track-offset":10}]}]},{"id":"a85d446e-dcf8-4198-b851-b6a79939e0ed","score":"100","title":"Sinking Ship","length":221000,"video":null,"artist-credit":[{"artist":{"id":"c0002273-5346-4998-a1f0-d9e87efedd41","name":"Opus Däi","sort-name":"Opus Däi"}}],"releases":[{"id":"206bbd1e-8442-462d-ac82-8332cb005ed7","title":"Touch the Sun","status":"Official","release-group":{"id":"0a8c60d6-c6f3-4978-b3a3-5976510f800d","primary-type":"EP"},"date":"2008-08-30","release-events":[{"date":"2008-08-30"}],"track-count":5,"media":[{"position":1,"track":[{"id":"5d7a5db3-614b-3c84-885b-3db4cdd94d4d","number":"2","title":"Sinking Ship","length":221000}],"track-count":5,"track-offset":1}]}]},{"id":"a3d74bf2-ec9f-4fbf-b7e7-2c6db8e9ca1e","score":"100","title":"Sinking Ship","length":299000,"video":null,"artist-credit":[{"artist":{"id":"892efadb-c00f-4147-8c31-ea8cf3183785","name":"Rainbows Are Free","sort-name":"Rainbows Are Free"}}],"releases":[{"id":"5bd6dd42-48ef-4355-9e80-299e6b452359","title":"Believers in Medicine","status":"Official","release-group":{"id":"27e7a47b-e0cd-4f57-b1bf-2d9a7860f368","primary-type":"Album"},"date":"2010-04-17","country":"US","release-events":[{"date":"2010-04-17","area":{"id":"489ce91b-6658-3307-9877-795b68554c98","name":"United States","sort-name":"United States","iso-3166-1-codes":["US"]}}],"track-count":9,"media":[{"position":1,"format":"CD","track":[{"id":"64bc5a49-95c8-357e-a885-30bdaba79dcd","number":"8","title":"Sinking Ship","length":299000}],"track-count":9,"track-offset":7}]}]}]}
+{
+  "created": "2014-04-10T03:54:55.886Z",
+  "count": 106,
+  "offset": 0,
+  "recording": [
+    {
+      "id": "0ec12e20-a380-437c-94ef-f321c8e557f2",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 274000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "a506f761-2c22-4b2f-8a94-bd748c2c8f75",
+            "name": "Neutral Milk Hotel",
+            "sort-name": "Neutral Milk Hotel",
+            "aliases": [
+              {
+                "sort-name": "Jeff Mangum",
+                "name": "Jeff Mangum",
+                "locale": "en_US",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Neutral Milk",
+                "name": "Neutral Milk",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "aa63a5bd-d36a-43a3-a622-c813e72da497",
+          "title": "Invent Yourself a Shortcake",
+          "status": "Official",
+          "release-group": {
+            "id": "52c9bd17-082b-3b56-b43c-caa6ac576c3a",
+            "primary-type": "Album"
+          },
+          "date": "1991",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1991",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "position": 1,
+              "format": "Cassette",
+              "track": [
+                {
+                  "id": "416accd9-518c-3d7b-b036-cf9393d36f1b",
+                  "number": "6",
+                  "title": "Sinking Ship",
+                  "length": 274000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "207b27eb-0e0a-4a47-83d0-82b1ab60dfda",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 101693,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "41521210-ef91-49cc-9b0b-55ca8f9f053c",
+            "name": "Jimi Tenor",
+            "sort-name": "Tenor, Jimi"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "25c9ba91-2bf7-49d2-87d7-f6d4e0ac2305",
+          "title": "Utopian Dream",
+          "status": "Official",
+          "release-group": {
+            "id": "72ac12b4-45d8-346e-a6b3-33d4ec746ada",
+            "primary-type": "Album"
+          },
+          "date": "2001-10",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2001-10",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b3004705-fd0e-34d4-9cb1-3b82636d8b11",
+                  "number": "11",
+                  "title": "Sinking Ship",
+                  "length": 101693
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "952a4cc0-1f15-40c3-bb88-819d08d8a93b",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 198000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "b3d5b1c9-95df-42ea-83eb-c86b18f61f8d",
+            "name": "The New Year",
+            "sort-name": "New Year, The"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "fe14b417-ff6e-4176-bd34-b0791cb74a6e",
+          "title": "The End Is Near",
+          "status": "Official",
+          "release-group": {
+            "id": "03b7e181-c0d4-37a4-afb5-449276f9b385",
+            "primary-type": "Album"
+          },
+          "date": "2004-05-18",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2004-05-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0ba79104-e600-35f8-903c-6bd7e2fb8ece",
+                  "number": "2",
+                  "title": "Sinking Ship",
+                  "length": 198000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        {
+          "id": "USTG30425602"
+        }
+      ]
+    },
+    {
+      "id": "7a139cbb-3aad-42c0-b91d-ee6ef48cfcce",
+      "score": "100",
+      "title": "Sinking Ship",
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "e1f481f4-9159-41c3-b4c6-f86b95f04db9",
+            "name": "Bum Ruckus",
+            "sort-name": "Bum Ruckus"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "9a05427c-e4d5-4f74-bd96-a7754d7fd7f0",
+          "title": "Almost Professional",
+          "status": "Official",
+          "release-group": {
+            "id": "3550c301-6e4f-3ade-9301-ab8a7c8e3de7",
+            "primary-type": "Album"
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "position": 1,
+              "track": [
+                {
+                  "id": "65fe8eb7-e493-3dc0-9658-9bc367e720d8",
+                  "number": "5",
+                  "title": "Sinking Ship",
+                  "length": 0
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e0dea6f-7760-42f1-8938-b3157b10ee2e",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 191000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "a2dc0b52-1057-447f-89db-818acab15299",
+            "name": "Gabriel Yared",
+            "sort-name": "Yared, Gabriel",
+            "disambiguation": "soundtrack composer",
+            "aliases": [
+              {
+                "sort-name": "Garbriel Yared",
+                "name": "Garbriel Yared",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yared",
+                "name": "Yared",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yared, Gabriel",
+                "name": "Yared, Gabriel",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "30769353-fbdd-4245-8419-c8b378f12ab3",
+          "title": "1408",
+          "status": "Official",
+          "release-group": {
+            "id": "38eacb8f-cbea-3fa8-bada-f97767e1f0e9",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ]
+          },
+          "date": "2007-07-03",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2007-07-03",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3f6fed2c-154d-3799-be32-01e61806b7dd",
+                  "number": "12",
+                  "title": "Sinking Ship",
+                  "length": 191000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "df24d615-4b2b-35b6-8887-a950435601d2",
+          "title": "1408",
+          "status": "Official",
+          "release-group": {
+            "id": "38eacb8f-cbea-3fa8-bada-f97767e1f0e9",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ]
+          },
+          "date": "2007-07-02",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2007-07-02",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "075941af-e9d9-3753-8753-e675707589ca",
+                  "number": "12",
+                  "title": "Sinking Ship",
+                  "length": 191000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "e136af0f-9403-375e-a868-44767656d2ea",
+          "title": "1408",
+          "status": "Official",
+          "release-group": {
+            "id": "38eacb8f-cbea-3fa8-bada-f97767e1f0e9",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ]
+          },
+          "date": "2007-08-03",
+          "country": "TW",
+          "release-events": [
+            {
+              "date": "2007-08-03",
+              "area": {
+                "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+                "name": "Taiwan",
+                "sort-name": "Taiwan",
+                "iso-3166-1-codes": [
+                  "TW"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8d79bfe0-bf1e-389f-a7da-9f073522028e",
+                  "number": "12",
+                  "title": "Sinking Ship",
+                  "length": 191000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0717b24f-6a26-4975-acc8-c4d9ec5d7c5d",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 288000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "a506f761-2c22-4b2f-8a94-bd748c2c8f75",
+            "name": "Neutral Milk Hotel",
+            "sort-name": "Neutral Milk Hotel",
+            "aliases": [
+              {
+                "sort-name": "Jeff Mangum",
+                "name": "Jeff Mangum",
+                "locale": "en_US",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Neutral Milk",
+                "name": "Neutral Milk",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "d00832ef-cd7d-4350-a7dd-56f13f450e73",
+          "title": "Complete Demo Recordings",
+          "status": "Bootleg",
+          "release-group": {
+            "id": "3860fefc-1031-320d-a4c0-7d2e28518190",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ]
+          },
+          "track-count": 42,
+          "media": [
+            {
+              "position": 1,
+              "track": [
+                {
+                  "id": "e1036420-8630-3cd9-9881-0ac007f5b0a4",
+                  "number": "6",
+                  "title": "Sinking Ship",
+                  "length": 288000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "58f87f9e-05f9-4572-813a-4b42f4c19dc3",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 160000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "07c84a41-f755-48e2-821d-7b69ba73424e",
+            "name": "Peter Mergener",
+            "sort-name": "Mergener, Peter"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "2a3e956d-ebeb-4383-8fe2-d3faac08b81a",
+          "title": "Let There Be More Light (Creatures II)",
+          "status": "Official",
+          "release-group": {
+            "id": "beafea24-a25a-3297-a52b-dec60fc4b75f",
+            "primary-type": "Album"
+          },
+          "date": "1994",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1994",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fda7741a-e6b1-32ec-b66d-e2370498ade2",
+                  "number": "8",
+                  "title": "Sinking Ship",
+                  "length": 160000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e9f28be-a009-462d-9c14-448f305ed243",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 49000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "e3607d9d-16a3-42eb-b88c-c09ac9527192",
+            "name": "Paul J. Smith",
+            "sort-name": "Smith, Paul J."
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "90040dd9-af34-4417-a1e4-a737ce20a7a0",
+          "title": "20,000 Leagues Under the Sea",
+          "status": "Bootleg",
+          "release-group": {
+            "id": "e8f83150-4cc8-3156-8fbc-e253c9d8a1a0",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ]
+          },
+          "track-count": 21,
+          "media": [
+            {
+              "position": 1,
+              "track": [
+                {
+                  "id": "6f37ec80-ce46-398a-9ea6-6e98253f2f6d",
+                  "number": "5",
+                  "title": "Sinking Ship",
+                  "length": 49000
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c461bb01-f253-418e-81d8-6e45c9e019bc",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 294000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "cd87f439-0ec2-410f-a5a3-1c19d33c7438",
+            "name": "G'Nee and Her Kings",
+            "sort-name": "G'Nee and Her Kings",
+            "aliases": [
+              {
+                "sort-name": "G'nee And Her Kings",
+                "name": "G'nee And Her Kings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "d2f01dd7-0cd6-433b-aa59-d2c0cf65813c",
+          "title": "Believe",
+          "status": "Official",
+          "release-group": {
+            "id": "98e18337-29da-42d5-a413-aa281daeb150",
+            "primary-type": "Album"
+          },
+          "date": "2011-09-25",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2011-09-25",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 7,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "aa953eaa-14e9-37ad-80e9-3a316eae3b3b",
+                  "number": "3",
+                  "title": "Sinking Ship",
+                  "length": 294000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e86cb13-a72c-485c-b1f6-31998d9560f6",
+      "score": "100",
+      "title": "Sinking Ship",
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "c3bef39b-341e-4501-9286-964acf646fb8",
+            "name": "Black Friday '29",
+            "sort-name": "Black Friday '29"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "471a978b-c000-4d17-9ee3-ad84c78bb5ed",
+          "title": "The Pursuit of Happiness",
+          "status": "Official",
+          "release-group": {
+            "id": "870ab102-1d55-43f8-815d-1756f83be900",
+            "primary-type": "Album"
+          },
+          "date": "2007",
+          "release-events": [
+            {
+              "date": "2007"
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "track": [
+                {
+                  "id": "ef712db3-5418-3ed6-87bd-cf4ee56b7290",
+                  "number": "5",
+                  "title": "Sinking Ship",
+                  "length": 0
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09f31976-b7a2-40a6-a367-7c2d99428652",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 258000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "b0eb621d-40c6-476f-9054-9778b2150ab6",
+            "name": "Jill Andrews",
+            "sort-name": "Andrews, Jill"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "49453828-b06d-4d06-8455-6172efd5b456",
+          "title": "The Mirror",
+          "status": "Official",
+          "release-group": {
+            "id": "d327c5f7-3f4b-45a2-b11c-4622d8d82735",
+            "primary-type": "Album"
+          },
+          "date": "2011-06-07",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2011-06-07",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "4c286df6-0dd4-36d5-8592-acce85f504a2",
+                  "number": "3",
+                  "title": "Sinking Ship",
+                  "length": 258000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6674cf43-7b73-4440-988f-f7825ddc0216",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 256000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "665e5453-f8c3-4e20-94c9-f1397bcd52f7",
+            "name": "Adam WarRock",
+            "sort-name": "WarRock, Adam"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "48882787-495b-41ea-9999-82c41287a9aa",
+          "title": "Irrelevant, Volume 1",
+          "status": "Official",
+          "release-group": {
+            "id": "0ca47f95-a650-4ce7-89e2-d5ec7460b729",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ]
+          },
+          "date": "2011-07-22",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2011-07-22",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7f6c810c-9cd6-3ff2-90a3-3e09c2235dfe",
+                  "number": "7",
+                  "title": "Sinking Ship",
+                  "length": 256000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba24bd5d-8418-41d6-8108-2f7506ead387",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 339240,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "c3aed36d-a6e7-4b4a-af01-d4ddcf2c044e",
+            "name": "Gosling",
+            "sort-name": "Gosling"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "277ded2f-531c-4f11-8e76-bc79553dfda1",
+          "title": "Here Is...",
+          "status": "Official",
+          "release-group": {
+            "id": "b0a75b97-8b4e-33e7-a8eb-f9021fec8e6b",
+            "primary-type": "Album"
+          },
+          "date": "2006",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2006",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "position": 1,
+              "track": [
+                {
+                  "id": "2f9cc01d-cbd2-3bc3-a68c-e2e35ca28f01",
+                  "number": "13",
+                  "title": "Sinking Ship",
+                  "length": 339240
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7a617e21-f27b-4f54-b3df-259b1a298960",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 198000,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "artist": {
+            "id": "5235255a-72f7-4d48-9deb-69cb2c5e3013",
+            "name": "Cedric Myton",
+            "sort-name": "Myton, Cedric",
+            "aliases": [
+              {
+                "sort-name": "Cedric \"Congo\" Myton",
+                "name": "Cedric \"Congo\" Myton",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cedric \"Congos\" Mytton",
+                "name": "Cedric \"Congos\" Mytton",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "artist": {
+            "id": "6a810a7e-0163-41c5-b198-2edcbb4a33bb",
+            "name": "The Congos",
+            "sort-name": "Congos, The",
+            "aliases": [
+              {
+                "sort-name": "Congoes, The",
+                "name": "Congoes, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Congos, The",
+                "name": "Congos, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Congoes",
+                "name": "The Congoes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "a6722053-979c-43ab-97b8-f6aea5baea08",
+          "title": "Face the Music",
+          "status": "Official",
+          "release-group": {
+            "id": "10a098fd-6477-362c-9ee6-e4b9899b5f7b",
+            "primary-type": "Album"
+          },
+          "date": "1981",
+          "country": "JM",
+          "release-events": [
+            {
+              "date": "1981",
+              "area": {
+                "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+                "name": "Jamaica",
+                "sort-name": "Jamaica",
+                "iso-3166-1-codes": [
+                  "JM"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "position": 1,
+              "track": [
+                {
+                  "id": "712f3206-37da-386e-bc36-ac15625899f4",
+                  "number": "4",
+                  "title": "Sinking Ship",
+                  "length": 198000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "109ae269-68ea-4869-aa9b-b3b153c56bfa",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 132000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "ae28486c-6ef4-433a-9d06-3fb845fd68b3",
+            "name": "Viceroy",
+            "sort-name": "Viceroy"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "2217846b-28ef-4751-afd9-50d7818c9596",
+          "title": "Hometown Pride",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "392918cb-1969-3197-b94c-fbcb8ec31736",
+            "primary-type": "Album"
+          },
+          "date": "2006-07",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2006-07",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "position": 1,
+              "track": [
+                {
+                  "id": "bf16773e-5236-3afb-bb70-4c47c94ae160",
+                  "number": "8",
+                  "title": "Sinking Ship",
+                  "length": 132000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe71ace6-6ef0-4d22-9c23-16729054f5cf",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 292706,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "5d38d0f3-de09-4c1a-b126-7336952358ab",
+            "name": "Bobby Conn",
+            "sort-name": "Conn, Bobby"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "5ff458a1-aba6-47d7-83ae-eb3fe8aeb59f",
+          "title": "King for a Day",
+          "status": "Official",
+          "release-group": {
+            "id": "a0bb02b3-b9d6-318a-b3fd-9524d790885f",
+            "primary-type": "Album"
+          },
+          "date": "2007",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "39f258dc-2176-3683-a898-414ef7696f86",
+                  "number": "6",
+                  "title": "Sinking Ship",
+                  "length": 292706
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c4a1de6-4d48-4945-b83d-60188ac86666",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 272000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "7bba2a32-ed44-4565-b6ec-735858c6f258",
+            "name": "The Moonwalkers",
+            "sort-name": "Moonwalkers, The",
+            "disambiguation": "Spanish alternative band"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "08b4367f-80a9-4395-84f6-ba56108bd991",
+          "title": "Tremendous Amount Of Cherries",
+          "status": "Official",
+          "release-group": {
+            "id": "83afe918-f78d-478c-958a-1bf8889c95df",
+            "primary-type": "Album"
+          },
+          "date": "2012-11-07",
+          "release-events": [
+            {
+              "date": "2012-11-07"
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "6826244d-53e8-35a2-ab5b-f0937ce87582",
+                  "number": "5",
+                  "title": "Sinking Ship",
+                  "length": 272000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2b680a97-a51f-4ba7-96c4-4dc4ab5098b7",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 190000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "91511517-ef93-4d71-a0f0-c858272af4a7",
+            "name": "Balthazar",
+            "sort-name": "Balthazar"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "78b386cb-cfb7-48cc-ae00-8398369d2985",
+          "title": "Rats",
+          "status": "Official",
+          "release-group": {
+            "id": "1f396537-fe6f-44e1-ba69-51d39c1ff523",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-12",
+          "release-events": [
+            {
+              "date": "2012-10-12"
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f8d84529-9770-3d79-af5c-05a13ba16b30",
+                  "number": "2",
+                  "title": "Sinking Ship",
+                  "length": 190000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de829218-8484-40c0-ad9c-4062135d82b4",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 191400,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "91511517-ef93-4d71-a0f0-c858272af4a7",
+            "name": "Balthazar",
+            "sort-name": "Balthazar"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "88faefc8-8227-43ef-9379-0c70411693e3",
+          "title": "Rats",
+          "status": "Official",
+          "release-group": {
+            "id": "1f396537-fe6f-44e1-ba69-51d39c1ff523",
+            "primary-type": "Album"
+          },
+          "date": "2012",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ba791572-16ac-3eea-946d-ba6c90186112",
+                  "number": "2",
+                  "title": "Sinking Ship",
+                  "length": 191400
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0fa14f4c-d357-4d3c-a577-5b9fe2106118",
+      "score": "100",
+      "title": "Sinking Ship",
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "96bea40e-bf23-437a-9a3d-8ba1261d9070",
+            "name": "Darren Jones",
+            "sort-name": "Darren Jones",
+            "disambiguation": "hard industrial techno sounds from the deepest depths"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "a8a7ad76-d5ff-4182-8bff-2108cc016f9e",
+          "title": "Metaphysis",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "psyCodEd",
+              "artist": {
+                "id": "2d1a61e0-a82f-4085-8d56-0f3ff42cf069",
+                "name": "Psycoded",
+                "sort-name": "Psycoded",
+                "disambiguation": "real name Aleks Janeski"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "56300f73-b1a1-408f-8c31-021fc763f91c",
+            "primary-type": "Album",
+            "secondary-types": [
+              "DJ-mix"
+            ]
+          },
+          "date": "2009-02-05",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2009-02-05",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russian Federation",
+                "sort-name": "Russian Federation",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "81d29da0-9c60-37d5-b204-e91e080c9ddc",
+                  "number": "20",
+                  "title": "Sinking Ship",
+                  "length": 0
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cdd3cff8-7123-44fa-8d66-60ab4a1d7616",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 222000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "65d22d19-4617-47e7-bcfa-bca0bd40dc7a",
+            "name": "The Chairs",
+            "sort-name": "Chairs, The",
+            "disambiguation": "Wisconsin based indie group"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "a24de27f-2b64-4480-b2be-b03ede580040",
+          "title": "Laugh, It's a Fright",
+          "status": "Official",
+          "release-group": {
+            "id": "ed660e96-d5b1-44d1-81f9-fdfaa2c62d48",
+            "primary-type": "Album"
+          },
+          "date": "2009-03-31",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-03-31",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "03ba323b-429d-3af2-a53f-24a6a2e2e7af",
+                  "number": "9",
+                  "title": "Sinking Ship",
+                  "length": 222000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2facd4e7-039b-4d4d-b04b-a6b0fe6ac7f6",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 168440,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "345c4ead-9243-4143-8390-6bb7b6185b90",
+            "name": "Lungbutter",
+            "sort-name": "Lungbutter"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "9a4b1142-d2ab-4e9e-9c1f-2a867a992549",
+          "title": "Release",
+          "status": "Official",
+          "release-group": {
+            "id": "fe9d2e40-a99e-4712-a29d-9db8fc04f3b6",
+            "primary-type": "Album"
+          },
+          "country": "DE",
+          "release-events": [
+            {
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1c915944-26ed-3b3c-8b7a-b733bd538e0b",
+                  "number": "8",
+                  "title": "Sinking Ship",
+                  "length": 168440
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "368a793d-a2a6-4a27-b833-845c9a087c05",
+      "score": "100",
+      "title": "Sinking Ship",
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "e0852756-9497-4c70-9595-e8f058bf2cf2",
+            "name": "Dennis Locorriere",
+            "sort-name": "Locorriere, Dennis",
+            "aliases": [
+              {
+                "sort-name": "Dennis of Dr. Hook",
+                "name": "Dennis of Dr. Hook",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "ddbe639a-87c5-42c7-9386-4d5925166c13",
+          "title": "Post Cool",
+          "status": "Official",
+          "release-group": {
+            "id": "1b8859a3-d87d-42d8-840f-fee4265df160",
+            "primary-type": "Album"
+          },
+          "date": "2010-03-15",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2010-03-15",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ab7a1442-f49c-3e0f-868b-65421925e742",
+                  "number": "11",
+                  "title": "Sinking Ship",
+                  "length": 0
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a85d446e-dcf8-4198-b851-b6a79939e0ed",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 221000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "c0002273-5346-4998-a1f0-d9e87efedd41",
+            "name": "Opus Däi",
+            "sort-name": "Opus Däi"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "206bbd1e-8442-462d-ac82-8332cb005ed7",
+          "title": "Touch the Sun",
+          "status": "Official",
+          "release-group": {
+            "id": "0a8c60d6-c6f3-4978-b3a3-5976510f800d",
+            "primary-type": "EP"
+          },
+          "date": "2008-08-30",
+          "release-events": [
+            {
+              "date": "2008-08-30"
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "position": 1,
+              "track": [
+                {
+                  "id": "5d7a5db3-614b-3c84-885b-3db4cdd94d4d",
+                  "number": "2",
+                  "title": "Sinking Ship",
+                  "length": 221000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3d74bf2-ec9f-4fbf-b7e7-2c6db8e9ca1e",
+      "score": "100",
+      "title": "Sinking Ship",
+      "length": 299000,
+      "video": null,
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "892efadb-c00f-4147-8c31-ea8cf3183785",
+            "name": "Rainbows Are Free",
+            "sort-name": "Rainbows Are Free"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "5bd6dd42-48ef-4355-9e80-299e6b452359",
+          "title": "Believers in Medicine",
+          "status": "Official",
+          "release-group": {
+            "id": "27e7a47b-e0cd-4f57-b1bf-2d9a7860f368",
+            "primary-type": "Album"
+          },
+          "date": "2010-04-17",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010-04-17",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "64bc5a49-95c8-357e-a885-30bdaba79dcd",
+                  "number": "8",
+                  "title": "Sinking Ship",
+                  "length": 299000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+} 
