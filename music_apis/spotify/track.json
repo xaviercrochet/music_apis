@@ -1,0 +1,12 @@
+{"info": {"num_results": 2, "limit": 100, "offset": 0, "query": "['artist:fauve', 'track:blizzard']", "type": "track", "page": 1}, 
+"tracks": [
+	{
+	"album": {"released": "2013", "href": "spotify:album:28J2XfrzYlC2QIp63KA2d3", "name": "BLIZZARD", "availability": {"territories": "AD AR AT AU BE BG BO BR CH CL CO CR CY CZ DE DK DO EC EE ES FI FR GB GR GT HK HN HR HU IE IS IT LT LU LV MC MT MX MY NI NL NO NZ PA PE PH PL PT PY RO SE SG SI SK SV TR TW UY"}}, 
+	"name": "BLIZZARD", "popularity": "0.65", "external-ids": [{"type": "isrc", "id": "FR9W11304074"}], "length": 292.093, "href": "spotify:track:1r9o3HnWB2mm7WyC6wQWNA", 
+	"artists": [{"href": "spotify:artist:3Qei3mnDY6LrmJK6sYJdxo", "name": "Fauve"}], 
+	"track-number": "1"}, 
+	{
+		"album": {"released": "2013", "href": "spotify:album:3ijmk8rw2WvdEr92szDsRl", "name": "BLIZZARD", "availability": {"territories": "CA"}}, 
+		"name": "BLIZZARD", "popularity": "0", "external-ids": [{"type": "isrc", "id": "FR9W11304074"}], "length": 292.093, "href": "spotify:track:0HLlSDB2UfKARMOGyAX72t", 
+		"artists": [{"href": "spotify:artist:3Qei3mnDY6LrmJK6sYJdxo", "name": "Fauve"}], "track-number": "1"}]
+	}
