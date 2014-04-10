@@ -1,16 +1,20 @@
 require 'music_apis/responses/track_parser'
-require 'entities/track'
+require 'track'
+require 'music_apis/track_result'
+require 'music_apis/spotify/responses/artist_parser'
 require 'json'
 
 
 module MusicApis
   module Spotify
     module Responses
-      ## TO Be renamed. Represents the collection of track returned by spotify
+      ##Represents the collection of track returned by spotify
       class TrackParser < ::MusicApis::Responses::TrackParser
 
+        attr_reader :track_result
+
         def initialize(track_json)
-          build(track_json)
+          @track_result = build(track_json)
         end
 
         def build(track_json)
@@ -25,12 +29,12 @@ module MusicApis
       private
 
         def build_track(track_json)
-          Track.new(
-            title:      track_json["name"],
-            time:       track_json["length"].to_i,
-            isrc:       get_external_id(track_json["external-ids"], 'isrc'),
-            artists:    build_artists(track_json)
-          )
+          track = ::Track.new
+          track.title = track_json["name"]
+          track.time = track_json["length"].to_i
+          track.isrc = get_external_id(track_json["external-ids"], 'isrc')
+          track.artists = build_artists(track_json)
+          track
         end
 
         def build_artists(track_json)

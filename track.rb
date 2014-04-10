@@ -7,4 +7,5 @@ class Track
   attr_accessor :artists
   attr_accessor :supports
   attr_accessor :genre
+
 end

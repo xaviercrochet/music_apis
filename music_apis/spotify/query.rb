@@ -11,7 +11,8 @@ module MusicApis
     # Spotify::Query.find()
 
     def self.search(&blk)
-      new(blk)
+      raise ArgumentError, "Block not given" unless block_given?
+      new(&blk).response
     end
 
     # TODO
@@ -20,28 +21,39 @@ module MusicApis
       response = open(URI.escape(request)).read
     end
 
-    def initialize
+    def initialize(&blk)
       @params = {}
 
       if block_given?
-        instance_eval(blk)
-        response
+        instance_eval &blk
       end
+    end
+
+    def response
+      request = 'http://ws.spotify.com/search/1/track.json?q=' + @params.map{|k,v| "#{k}:#{v}"}.join('&q=')
+      JSON.parse open(URI.escape(request)).read
     end
 
   private
 
-    PARAMS.each do |param|
-      eval %Q{
-        def #{param}(value)
-          @params[#{param}] = value
-        end
-      }
+    def title(value)
+      @params[:title] = value
     end
 
-    def response
-      request = 'http://ws.spotify.com/search/1/track.json?q=' + @params.map{|k,v| "#{k}=v"}.join('&q=')
-      JSON.parse open(URI.escape(request)).read
+    def artist(value)
+      @params[:artist] = value
     end
+
+
+    #todo ajouter les méthodes correspondantes?
+    # PARAMS.each do |param|
+    #   eval %Q{
+    #     def #{param}(value)
+    #       @params[#{param}] = value
+    #     end
+    #   }
+    # end
+
+
   end
 end

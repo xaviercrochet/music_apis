@@ -7,7 +7,6 @@ module MusicApis
     module Track
       def self.search(track_info)
         request = 'http://musicbrainz.org/ws/2/recording?query='+track_info[:title].to_s+'&fmt=json'
-        p URI.escape(request)
         response = open(URI.escape(request)).read
         return MusicApis::MusicBrainz::Responses::TrackParser.new response
       end
