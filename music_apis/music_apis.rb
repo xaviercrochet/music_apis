@@ -11,20 +11,16 @@ module MusicApis
         end
       end
 
-      def map
-        track_apis.map do |track_api|
-          yield track_api
-        end
+      def map(&blk)
+        track_apis.map blk
       end
 
-      def each
-        track_apis.each do |track_api|
-          yield track_api
-        end
+      def each(&blk)
+        track_apis.each blk
       end
 
       def register(klass)
-        self.track_apis || []
+        self.track_apis ||= []
         self.track_apis << klass
       end
     end

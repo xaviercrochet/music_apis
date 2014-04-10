@@ -21,16 +21,23 @@ module MusicApis
 
         def build_entity(response_track)
           entity = Entities::Track.new({
-            :title => response_track["name"],
-            :duration => response_track["duration"],
-            :isrc => response_track["isrc"],
-            :popularity => response_track["popularity"],
-            :api_name => "spotify",
-            :api_id => response_track["href"]
+            title: response_track["name"],
+            time: response_track["length"].to_i,
+            isrc: get_external_id(response_track["external-ids"], 'isrc'),
+            popularity: response_track["popularity"],
+            api_name: "spotify",
+            api_id: response_track["href"]
           })
+        end
 
-
-
+      private
+        def get_external_id(ids, id_type)
+          ids.each do |id|
+            if id["type"].eql? id_type
+              return id["id"]
+            end
+          end
+          'none'
         end
 
       end
