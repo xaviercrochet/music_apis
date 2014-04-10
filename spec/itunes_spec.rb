@@ -5,6 +5,9 @@ require 'music_apis/itunes/track'
 
 describe MusicApis::Itunes::Track do 
   it "Test" do
-    MusicApis::Itunes::Track.search(:title => "Sinking Ship")
+    result = MusicApis::Itunes::Track.search(:title => "Sinking Ship")
+    result.tracks.each do |track|
+      p track.to_s
+    end
   end
 end

@@ -7,10 +7,13 @@ module MusicApis
     module Track
 
       def self.search(track_info)
-        request = 'https://itunes.apple.com/search?term='+track_info[:title].to_s+'&entity=musicTrack'
-        response = open(URI.escape(request)).read
-        p URI.escape(request).to_s
+        response = open(URI.escape(generate_url(track_info[:title], 200))).read
         return MusicApis::Itunes::Responses::TrackParser.new response
+      end
+      
+    private
+      def self.generate_url(track_title, limit)
+        'https://itunes.apple.com/search?term='+track_title+'&entity=musicTrack&limit='+limit.to_s
       end
     end
   end
