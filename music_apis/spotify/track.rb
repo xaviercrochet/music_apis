@@ -1,17 +1,32 @@
 require 'music_apis/responses/track_parser'
 require 'music_apis/spotify/responses/track_parser'
 require 'open-uri'
+
 module MusicApis
   module Spotify
     module Track
-      def self.search(track_info)
-      	#response = MusicApis::Spotify::Reponses.new
-      	request = 'http://ws.spotify.com/search/1/track.json?q=track:' + track_info[:title].to_s  
-        response = open(URI.escape(request)).read
 
-        return MusicApis::Spotify::Responses::TrackParser.new response
-        # return ApiResponse::Track.new
-        # return SportifyApi::ApiResponse::Track.new response
+      def self.search(track)
+      	response = Spotify::Query.search do
+          title  track.title
+          artist track.formatted_artists
+        end
+        new(response)
+      end
+
+      attr_reader :tracks
+
+      def initialize(response)
+        @response = response
+        @tracks_json = response["tracks"]
+        @tracks = tracks.map do |track_json|
+          MusicApis::Spotify::Responses::TrackParser.new(@track_json)
+        end
+        @info = response[:info].symbolize_keys
+      end
+
+      def json
+        @response
       end
     end
   end
