@@ -21,7 +21,9 @@ module MusicApis
         def build_entity(response_track)
           entity = Entities::Track.new(
             title: response_track["title"],
-            time: format_time(response_track["length"])
+            time: format_time(response_track["length"]),
+            api_name: "MusicBrainz",
+            api_id: response_track["id"]
             )
         end
 
