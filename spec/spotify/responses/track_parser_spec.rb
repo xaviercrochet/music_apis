@@ -12,5 +12,7 @@ describe MusicApis::Spotify::Responses::TrackParser do
       expect(track_parser.track_result).to be_an_instance_of MusicApis::TrackResult
       expect(track_parser.track_result.track).to be_an_instance_of ::Track
       expect(track_parser.track_result.artist_results.first.artist).to be_a ::Artist
+      p track_parser.track_result.track
+      p track_parser.track_result.artist_results.first.artist
   end
 end

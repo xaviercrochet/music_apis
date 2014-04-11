@@ -13,5 +13,7 @@ describe MusicApis::MusicBrainz::Responses::TrackParser do
     expect(track_parser.track_result.track).to be_a ::Track
     expect(track_parser.track_result.artist_results.first).to be_a MusicApis::ArtistResult
     expect(track_parser.track_result.artist_results.first.artist).to be_a ::Artist
+    expect(track_parser.track_result.track.title).not_to be_nil
+    expect(track_parser.track_result.artist_results.first.artist.name).not_to be_nil
   end
 end
