@@ -10,6 +10,7 @@ module MusicApis
     module Responses
       ##Represents the collection of track returned by spotify
       class TrackParser < ::MusicApis::Responses::TrackParser
+        API_NAME = 'Spotifyy'
 
         attr_reader :track_result
 
@@ -19,7 +20,7 @@ module MusicApis
 
         def build(track_json)
           TrackResult.new(
-            api_name:   "spotify",
+            api_name:   API_NAME,
             api_id:     track_json["href"],
             popularity: track_json["popularity"],
             track:      build_track(track_json),
