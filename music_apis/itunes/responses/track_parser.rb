@@ -24,7 +24,12 @@ module MusicApis
         end
 
         def build(track_json)
-          TrackResult.new
+          TrackResult.new(
+            api_name: API_NAME,
+            api_id: track_json["trackId"],
+            track: build_track(track_json),
+            artist_results: build_artists(track_json)
+            )
         end
 
         def build_entity(track_info)
@@ -37,6 +42,17 @@ module MusicApis
         end
 
       private
+
+        def build_artists(track_json)
+        end
+
+        def build_track(track_json)
+          track = ::Track.new
+          track.title = track_json['trackName']
+          track.time = format_time(track_json['trackTimeMillis'])
+          return track
+        end
+
         def format_time(time)
           time.to_i/1000
         end
