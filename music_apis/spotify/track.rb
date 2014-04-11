@@ -15,14 +15,14 @@ module MusicApis
         end)
       end
 
-      attr_reader :tracks
+      attr_reader :track_results
 
       def initialize(response)
         @response = response
         @info = @response["info"]
         @tracks_json = @response["tracks"]
-        @tracks = @tracks_json.map do |track_json|
-          MusicApis::Spotify::Responses::TrackParser.new(track_json)
+        @track_results = @tracks_json.map do |track_json|
+          MusicApis::Spotify::Responses::TrackParser.new(track_json).track_result
         end
         # @info = response[:info].symbolize_keys
       end

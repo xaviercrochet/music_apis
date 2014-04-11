@@ -1,15 +1,13 @@
 require 'music_apis/spotify/track'
 require 'music_apis/spotify/responses/track_parser'
 
-describe MusicApis::Spotify::Track do 
+describe MusicApis::Spotify::Track do
+  let(:artist){ double(name: "David Guetta") }
+  let(:track){ double(title: "World Is Mine", artists: [artist]) }
+
   it "Test Spotify queries" do
-    track = Track.new()
-    track.title = "World Is Mine"
-    artist = Artist.new
-    artist.name = "David Guetta"
-    track.artists ||=[]
-    track.artists << artist
-    search_result = MusicApis::Spotify::Track.search(track)
-    expect(search_result.tracks.first).to be_a MusicApis::Spotify::Responses::TrackParser 
+    search = MusicApis::Spotify::Track.search(track)
+    expect(search.track_results.first.track).to be_a ::Track
+    expect(search.track_results.first.artist_results.first.artist.name).to include "David Guetta"
   end
 end

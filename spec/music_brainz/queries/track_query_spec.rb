@@ -1,11 +1,11 @@
-require 'music_apis/music_brainz/query'
+require 'music_apis/music_brainz/queries/track_query'
 require 'json'
 
-describe MusicApis::MusicBrainz::Query do
+describe MusicApis::MusicBrainz::Queries::TrackQuery do
   it "Query should return a JSON object" do
     title = "Sinking Ship"
     artist_name = "Balthazar"
-    result = MusicApis::MusicBrainz::Query.search do 
+    result = MusicApis::MusicBrainz::Queries::TrackQuery.search do
       title title
       artist artist_name
     end
