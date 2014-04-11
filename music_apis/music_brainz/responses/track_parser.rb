@@ -1,4 +1,5 @@
 require 'music_apis/responses/track_parser'
+require 'music_apis/music_brainz/responses/artist_parser'
 require 'entities/track'
 require 'json'
 
@@ -20,7 +21,8 @@ module MusicApis
           TrackResult.new(
             api_name: API_NAME,
             api_id: track_json["id"],
-            track: build_track(track_json)
+            track: build_track(track_json),
+            artist_results: build_artists(track_json["artist-credit"])
             )
         end
 
@@ -45,6 +47,12 @@ module MusicApis
 
         def format_time(time)
           time.to_i/1000
+        end
+
+        def build_artists(track_json)
+          track_json.map do |artist_json|
+            ArtistParser.new(artist_json).artist_result
+          end
         end
 
       end
