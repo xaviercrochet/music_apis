@@ -16,12 +16,6 @@ module MusicApis
 
         def initialize(track_json)
           @track_result = build(track_json)
-          # @response = response
-          # hash_response = JSON.parse response
-          # tracks = hash_response["results"]
-          # @tracks = tracks.map do |track|
-          #   build_entity(track)
-          # end
         end
 
         def build(track_json)
