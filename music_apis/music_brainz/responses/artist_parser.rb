@@ -15,7 +15,19 @@ module MusicApis
         end
 
         def build(artist_json)
-          ArtistResult.new
+          ArtistResult.new(
+            api_name: API_NAME,
+            api_id: artist_json["id"],
+            artist: build_artist(artist_json)
+            )
+        end
+      
+      private
+        
+        def build_artist(artist_json)
+          artist = ::Artist.new
+          artist.name = artist_json["name"]
+          return artist
         end
       end
     end
