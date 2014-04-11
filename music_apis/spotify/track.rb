@@ -1,6 +1,6 @@
 require 'music_apis/responses/track_parser'
 require 'music_apis/spotify/responses/track_parser'
-require 'music_apis/spotify/query'
+require 'music_apis/spotify/queries/track_query'
 require 'active_support'
 require 'active_support/core_ext/object/blank'
 
@@ -9,7 +9,7 @@ module MusicApis
     class Track
 
       def self.search(track)
-      	new(Spotify::Query.search do
+      	new(Spotify::Queries::TrackQuery.search do
           title track.title if track.title.present?
           artist track.artists.first.name if track.artists.present?
         end)
