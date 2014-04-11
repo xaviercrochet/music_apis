@@ -2,6 +2,7 @@ require 'music_apis/responses/track_parser'
 require 'track'
 require 'music_apis/track_result'
 require 'entities/track'
+require 'music_apis/itunes/responses/artist_parser'
 require 'json'
 
 module MusicApis
@@ -44,6 +45,7 @@ module MusicApis
       private
 
         def build_artists(track_json)
+          ArtistParser.new(track_json).artist_result
         end
 
         def build_track(track_json)

@@ -1,4 +1,3 @@
-require 'json'
 require 'artist'
 require 'music_apis/artist_result'
 

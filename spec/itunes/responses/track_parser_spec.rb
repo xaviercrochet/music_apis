@@ -11,5 +11,6 @@ describe MusicApis::Itunes::Responses::TrackParser do
     expect(track_parser.track_result.track).to be_a ::Track
     expect(track_parser.track_result.track.title).not_to be_nil
     expect(track_parser.track_result.track.time).not_to be_nil
+    expect(track_parser.track_result.artist_results).to be_a MusicApis::ArtistResult
   end
 end
