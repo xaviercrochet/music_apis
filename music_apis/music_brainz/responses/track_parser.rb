@@ -40,8 +40,8 @@ module MusicApis
           time.to_i/1000
         end
 
-        def build_artists(track_json)
-          track_json.map do |artist_json|
+        def build_artists(artists_json)
+          artists_json.map do |artist_json|
             ArtistParser.new(artist_json).artist_result
           end
         end
