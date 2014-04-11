@@ -24,7 +24,6 @@ module MusicApis
         @track_results = @tracks_json.map do |track_json|
           MusicApis::Spotify::Responses::TrackParser.new(track_json).track_result
         end
-        # @info = response[:info].symbolize_keys
       end
 
       def json

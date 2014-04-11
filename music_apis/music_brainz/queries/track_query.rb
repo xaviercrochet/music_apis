@@ -1,5 +1,3 @@
-require 'json'
-require 'open-uri'
 require 'music_apis/query'
 
 module MusicApis

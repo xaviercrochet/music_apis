@@ -1,3 +1,6 @@
+require 'json'
+require 'open-uri'
+
 module MusicApis
   class Query
 
@@ -49,6 +52,14 @@ module MusicApis
 
     def artist(value)
       @params[:artist] = value
+    end
+
+    def catalog_number(value)
+      @params[:catalog_number] = value
+    end
+
+    def barcode(value)
+      @params[:barcode] = value
     end
 
     def base_url
