@@ -18,7 +18,7 @@ describe MusicApis::Spotify::Track do
   result = MusicApis::Spotify::Track.search(track)
   it {expect(result.tracks.size).to be >= 1}
   result.tracks.each do |t|
-    p t.track_result
+    p t.track_result.api_name
   end
 
 

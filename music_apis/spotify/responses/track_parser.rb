@@ -15,6 +15,7 @@ module MusicApis
 
         def initialize(track_json)
           @track_result = build(track_json)
+          debugger
         end
 
         def build(track_json)
@@ -34,7 +35,7 @@ module MusicApis
           track.time = track_json["length"].to_i
           track.isrc = get_external_id(track_json["external-ids"], 'isrc')
           track.artists = build_artists(track_json)
-          track
+          return track
         end
 
         def build_artists(track_json)
