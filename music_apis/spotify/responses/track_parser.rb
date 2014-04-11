@@ -15,7 +15,6 @@ module MusicApis
 
         def initialize(track_json)
           @track_result = build(track_json)
-          debugger
         end
 
         def build(track_json)
@@ -23,7 +22,8 @@ module MusicApis
             api_name:   "spotify",
             api_id:     track_json["href"],
             popularity: track_json["popularity"],
-            track:      build_track(track_json)
+            track:      build_track(track_json),
+            artist_results: build_artists(track_json)
           )
         end
 
@@ -34,13 +34,13 @@ module MusicApis
           track.title = track_json["name"]
           track.time = track_json["length"].to_i
           track.isrc = get_external_id(track_json["external-ids"], 'isrc')
-          track.artists = build_artists(track_json)
+          #track.artists = build_artists(track_json)
           return track
         end
 
         def build_artists(track_json)
           track_json['artists'].map do |artist_json|
-            ArtistParser.new(artist_json)
+            ArtistParser.new(artist_json).artist_result
           end
         end
 
