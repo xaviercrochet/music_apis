@@ -5,7 +5,7 @@ require 'music_apis/track_result'
 require 'track'
 require 'artist'
 describe MusicApis::Spotify::Responses::TrackParser do
-  it "vd" do
+  it "Test Structure" do
       response = File.read('spec/fixtures/track_spotify.json')
       tracks_json = JSON.parse(response)
       track_parser = MusicApis::Spotify::Responses::TrackParser.new(tracks_json["tracks"].first)

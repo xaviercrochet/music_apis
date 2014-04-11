@@ -8,13 +8,20 @@ module MusicApis
 
       class TrackParser < ::MusicApis::Responses::TrackParser
 
-        def initialize(response)
-          @response = response
-          hash_response = JSON.parse(response)
-          tracks = hash_response["recording"]
-          @tracks = tracks.map do |track|
-            build_entity(track)
-          end
+        API_NAME = 'Music Brainz'
+
+        attr_reader :track_result
+
+        def initialize(track_json)
+          @track_result = build(track_json)
+        end
+
+        def build(track_json)
+          TrackResult.new(
+            api_name: API_NAME,
+            api_id: track_json["id"],
+            track: build_track(track_json)
+            )
         end
 
 
@@ -28,6 +35,9 @@ module MusicApis
         end
 
       private
+
+        def build_track(track_json)
+        end
         def format_time(time)
           time.to_i/1000
         end
