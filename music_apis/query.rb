@@ -19,6 +19,7 @@ module MusicApis
 
     def response
       request = base_url + formatted_params + end_url
+      p URI.escape(request)
       JSON.parse open(URI.escape(request)).read
     end
 
@@ -58,8 +59,8 @@ module MusicApis
       @params[:catalog_number] = value
     end
 
-    def barcode(value)
-      @params[:barcode] = value
+    def bar_code(value)
+      @params[:bar_code] = value
     end
 
     def base_url

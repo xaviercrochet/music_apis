@@ -12,7 +12,7 @@ module MusicApis
           {
             title:          :release,
             catalog_number: :catno,
-            barcode:        :barcode
+            bar_code:        :barcode
           }
         end
 

@@ -1,5 +1,6 @@
 require 'json'
 require 'artist'
+require 'music_apis/responses/track_parser'
 require 'music_apis/artist_result'
 
 module MusicApis

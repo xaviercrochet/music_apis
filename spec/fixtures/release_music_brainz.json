@@ -1,0 +1,94 @@
+{
+  "created": "2014-04-11T12:53:06.093Z",
+  "count": 1,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "0244e1b7-6f82-41ba-95c4-b23be11a5f24",
+      "score": "100",
+      "count": 1,
+      "title": "Guetta Blaster",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "302bd7b9-d012-4360-897a-93b00c855680",
+            "name": "David Guetta",
+            "sort-name": "Guetta, David",
+            "aliases": [
+              {
+                "sort-name": "David Ghetta",
+                "name": "David Ghetta",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "David Guette",
+                "name": "David Guette",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Davie Guetta",
+                "name": "Davie Guetta",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "release-group": {
+        "id": "dbe0abc5-07dc-371c-a2d4-b360b6a6d32a",
+        "primary-type": "Album"
+      },
+      "date": "2004-06-08",
+      "country": "FR",
+      "release-events": [
+        {
+          "date": "2004-06-08",
+          "area": {
+            "id": "08310658-51eb-3801-80de-5a0739207115",
+            "name": "France",
+            "sort-name": "France",
+            "iso-3166-1-codes": [
+              "FR"
+            ]
+          }
+        }
+      ],
+      "barcode": "724357197021",
+      "asin": "B000266XIU",
+      "label-info": [
+        {
+          "catalog-number": "571 970-2",
+          "label": {
+            "id": "f8ad89d3-7a49-4289-b8e4-467dda8ec07e",
+            "name": "Virgin Music France"
+          }
+        }
+      ],
+      "track-count": 12,
+      "media": [
+        {
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 12
+        }
+      ]
+    }
+  ]
+}
