@@ -5,7 +5,7 @@ module MusicApis
   module MusicBrainz
     class Query
 
-      PARAMS = [:recodring, :isrc, :date, :artist]
+      PARAMS = [:recording, :isrc, :date, :artist]
       #SEE http://musicbrainz.org/doc/Development/XML_Web_Service/Version_2/Search#Recording
       # for more params.
 

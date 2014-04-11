@@ -1,4 +1,6 @@
-require 'music/spotify/track'
+require 'music_apis/spotify/track'
+require 'music_apis/music_brainz/track'
+require 'music_apis/itunes/track'
 
 module MusicApis
   class Track
@@ -24,6 +26,8 @@ module MusicApis
         self.track_apis << klass
       end
     end
-    register MusicApis::Spotify::Track 
+    register MusicApis::Spotify::Track
+    register MusicApis::Itunes::Track
+    register MusicApis::MusicBrainz::track 
   end
 end
