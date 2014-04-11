@@ -11,5 +11,6 @@ describe MusicApis::MusicBrainz::Support do
     expect(search.support_results.first.support).to be_a ::Support
     expect(search.support_results.first.support.title).to include "Guetta Blaster"
     expect(search.support_results.first.artist_results.first.artist.name).to include "David Guetta"
+    expect(search.support_results.first.label_result.label).to include "Virgin"
   end
 end

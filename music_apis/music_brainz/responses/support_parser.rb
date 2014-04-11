@@ -1,4 +1,5 @@
 require 'music_apis/music_brainz/responses/artist_parser'
+require 'music_apis/music_brainz/responses/label_parser'
 require 'music_apis/support_result'
 require 'support'
 
@@ -20,7 +21,8 @@ module MusicApis
             api_name: API_NAME,
             api_id: support_json["id"],
             support: build_support(support_json),
-            artist_results: build_artists(support_json["artist-credit"])
+            artist_results: build_artists(support_json["artist-credit"]),
+            label_result: build_label(support_json["label-info"])
             )
         end
 
@@ -32,7 +34,6 @@ module MusicApis
           support.catalog_number = support_json["label-info"].first["catalog-number"]
           support.bar_code = support_json["barcode"]
           support.format = support_json["media"].first["format"]
-          support.label = build_label(support_json["label-info"])
           return support
         end
 
@@ -43,7 +44,7 @@ module MusicApis
         end
 
         def build_label(label_json)
-          label_json.first["label"]["name"]
+          LabelParser.new(label_json.first["label"]).label_result
         end
       end
     end
