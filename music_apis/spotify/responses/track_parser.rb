@@ -10,7 +10,7 @@ module MusicApis
     module Responses
       ##Represents the collection of track returned by spotify
       class TrackParser < ::MusicApis::Responses::TrackParser
-        API_NAME = 'Spotifyy'
+        API_NAME = 'Spotify'
 
         attr_reader :track_result
 

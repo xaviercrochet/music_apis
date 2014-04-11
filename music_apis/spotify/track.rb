@@ -1,7 +1,6 @@
 require 'music_apis/responses/track_parser'
 require 'music_apis/spotify/responses/track_parser'
 require 'music_apis/spotify/query'
-require 'open-uri'
 require 'active_support'
 require 'active_support/core_ext/object/blank'
 

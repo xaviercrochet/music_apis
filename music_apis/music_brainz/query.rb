@@ -24,7 +24,6 @@ module MusicApis
 
       def response
         request = 'http://musicbrainz.org/ws/2/recording?query='+ @params.map{|k,v| "#{k}:#{v}"}.join(' AND ') +'&fmt=json'
-        p URI.escape request
         JSON.parse open(URI.escape(request)).read
       end
 
