@@ -1,4 +1,6 @@
 require 'music_apis/responses/track_parser'
+require 'track'
+require 'music_apis/track_result'
 require 'entities/track'
 require 'json'
 
@@ -7,14 +9,22 @@ module MusicApis
     module Responses
 
       class TrackParser < ::MusicApis::Responses::TrackParser
+        API_NAME = 'Itunes'
 
-        def initialize(response)
-          @response = response
-          hash_response = JSON.parse response
-          tracks = hash_response["results"]
-          @tracks = tracks.map do |track|
-            build_entity(track)
-          end
+        attr_reader :track_result
+
+        def initialize(track_json)
+          @track_result = build(track_json)
+          # @response = response
+          # hash_response = JSON.parse response
+          # tracks = hash_response["results"]
+          # @tracks = tracks.map do |track|
+          #   build_entity(track)
+          # end
+        end
+
+        def build(track_json)
+          TrackResult.new
         end
 
         def build_entity(track_info)
