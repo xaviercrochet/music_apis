@@ -19,7 +19,6 @@ module MusicApis
 
     def response
       request = base_url + formatted_params + end_url
-      p URI.escape(request)
       JSON.parse open(URI.escape(request)).read
     end
 
