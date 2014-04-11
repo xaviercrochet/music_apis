@@ -3,6 +3,7 @@ require 'json'
 
 describe MusicApis::Spotify::Query do 
   it "Query should return a JSON object" do
+    #todo => compare with the real json object!!
     title = "World Is Mine"
     artist_name = "David Guetta"
     result = MusicApis::Spotify::Query.search do
