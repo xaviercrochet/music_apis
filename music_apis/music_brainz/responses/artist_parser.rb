@@ -18,7 +18,7 @@ module MusicApis
           ArtistResult.new(
             api_name: API_NAME,
             api_id: artist_json["id"],
-            artist: build_artist(artist_json)
+            artist: build_artist(artist_json["artist"])
             )
         end
       
