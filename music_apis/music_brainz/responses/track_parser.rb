@@ -1,7 +1,7 @@
 require 'music_apis/responses/track_parser'
 require 'music_apis/music_brainz/responses/artist_parser'
 require 'music_apis/track_result'
-require 'entities/track'
+require 'track'
 
 module MusicApis
   module MusicBrainz
