@@ -37,7 +37,12 @@ module MusicApis
       private
 
         def build_track(track_json)
+          track = ::Track.new
+          track.title = track_json["title"]
+          track.time = format_time(track_json["length"])
+          return track
         end
+
         def format_time(time)
           time.to_i/1000
         end

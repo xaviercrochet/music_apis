@@ -10,5 +10,6 @@ describe MusicApis::MusicBrainz::Responses::TrackParser do
     tracks_json = JSON.parse(response)
     track_parser = MusicApis::MusicBrainz::Responses::TrackParser.new(tracks_json["recording"].first)
     expect(track_parser.track_result).to be_a MusicApis::TrackResult
+    expect(track_parser.track_result.track).to be_a ::Track
   end
 end
