@@ -8,7 +8,7 @@ require 'active_support/core_ext/object/blank'
 module MusicApis
   module Itunes
     class Track
-      attr_reader :tracks
+      attr_reader :track_results
 
       #!!! Itunes does NOT support multiple tag search
       def self.search(track)
@@ -21,9 +21,8 @@ module MusicApis
       def initialize(response)
         @response = response
         @info = {resultCount: response["resultCount"]}
-        @tracks_json = response["results"] 
-        @tracks = @tracks_json.map do |track_json|
-          MusicApis::Itunes::Responses::TrackParser.new(track_json)
+        @track_results = response["results"] .map do |track_json|
+          MusicApis::Itunes::Responses::TrackParser.new(track_json).track_result
         end
       end
 
