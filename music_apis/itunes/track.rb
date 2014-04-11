@@ -1,6 +1,6 @@
 require 'music_apis/responses/track_parser'
 require 'music_apis/itunes/responses/track_parser'
-require 'music_apis/itunes/query'
+require 'music_apis/itunes/queries/track_query'
 require 'open-uri'
 require 'active_support'
 require 'active_support/core_ext/object/blank'
@@ -12,7 +12,7 @@ module MusicApis
 
       #!!! Itunes does NOT support multiple tag search
       def self.search(track)
-        new(Itunes::Query.search do
+        new(Itunes::Queries::TrackQuery.search do
           title track.title if track.title.present?
           artist track.artists.first.name if track.artists.present?
           end)
