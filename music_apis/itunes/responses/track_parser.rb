@@ -39,7 +39,13 @@ module MusicApis
       private
 
         def build_artists(track_json)
-          ArtistParser.new(track_json).artist_result
+          #itunes fait une recherche sur tout les élément d'une chanson(nom d'atistte, de musique, etc)
+          #Il renvoie donc une collection de chanson avec des infos sur un seul artiste
+          #C'est pourquoi je renvoie ici une collection d'artist_result avec juste un seul élement
+          #pour matcher la structure des track_results des autres wrappers.
+          result = []
+          result << ArtistParser.new(track_json).artist_result
+          return result
         end
 
         def build_track(track_json)
