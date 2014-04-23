@@ -4,7 +4,8 @@ require 'support'
 
 describe MusicApis::MusicBrainz::Support do
 
-  let(:support) {double(title: "Guetta Blaster", catalog_number: "571970-2", bar_code: nil)}
+  let(:support) {double(title: "Guetta Blaster", catalog_number: nil, bar_code: nil)}
+  #, catalog_number: "571970-2", bar_code: nil)}
 
    it "Test Music Brainz Support Queries" do
     search = MusicApis::MusicBrainz::Support.search(support)
