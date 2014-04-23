@@ -1,7 +1,6 @@
 require 'music_apis/responses/track_parser'
 require 'track'
 require 'music_apis/track_result'
-require 'entities/track'
 require 'music_apis/itunes/responses/artist_parser'
 require 'json'
 

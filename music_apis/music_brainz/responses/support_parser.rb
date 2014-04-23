@@ -1,4 +1,4 @@
-require 'music_apis/music_brainz/responses/artist_parser'
+  require 'music_apis/music_brainz/responses/artist_parser'
 require 'music_apis/music_brainz/responses/label_parser'
 require 'music_apis/support_result'
 require 'support'
@@ -31,9 +31,9 @@ module MusicApis
         def build_support(support_json)
           support = ::Support.new
           support.title = support_json["title"]
-          support.catalog_number = support_json["label-info"].first["catalog-number"]
           support.bar_code = support_json["barcode"]
-          support.format = support_json["media"].first["format"]
+          support.catalog_number = get_catalog_number(support_json)
+          support.format = get_format(support_json)
           return support
         end
 
@@ -44,7 +44,21 @@ module MusicApis
         end
 
         def build_label(label_json)
-          LabelParser.new(label_json.first["label"]).label_result
+          unless label_json.nil?
+            LabelParser.new(label_json.first["label"]).label_result
+          end
+        end
+
+        def get_catalog_number(support_json)
+          unless support_json["label-info"].nil?
+            support_json["label-info"].first["catalog-number"]
+          end
+        end
+
+        def get_format(support_json)
+          unless support_json["media"].nil?
+            support_json["media"].first["format"]
+          end
         end
       end
     end

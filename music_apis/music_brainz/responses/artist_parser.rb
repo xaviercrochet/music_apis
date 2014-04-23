@@ -1,12 +1,11 @@
 require 'json'
 require 'artist'
-require 'music_apis/responses/track_parser'
 require 'music_apis/artist_result'
 
 module MusicApis
   module MusicBrainz
     module Responses
-      class ArtistParser < ::MusicApis::Responses::TrackParser
+      class ArtistParser
         API_NAME = 'Music Brainz'
 
         attr_reader :artist_result
@@ -22,9 +21,9 @@ module MusicApis
             artist: build_artist(artist_json["artist"])
             )
         end
-      
+
       private
-        
+
         def build_artist(artist_json)
           artist = ::Artist.new
           artist.name = artist_json["name"]

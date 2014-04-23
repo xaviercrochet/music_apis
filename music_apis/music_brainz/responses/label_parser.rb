@@ -25,7 +25,7 @@ module MusicApis
         def build_label(label_json)
           label = ::Label.new
           label.name = label_json["name"]
-
+          return label
         end
       end
     end
